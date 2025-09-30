@@ -1,65 +1,51 @@
-<h1>FusionSigma's IT infrastructure from scratch</h1>
+# FusionSigma's IT infrastructure from scratch
 
- ### [Personal Webpage](https://fatme.es/projects/)
+### [Personal Webpage](https://fatme.es/projects/)
 
-<h2>Description</h2>
+## Description
 A comprehensive initiative to build a modern, scalable, and secure technological foundation for the company, covering all essential domains from network architecture to automation systems.
-<br />
 
+## Languages and Utilities Used
 
-<h2>Languages and Utilities Used</h2>
+- **PowerShell**
+- **Bash**
 
-- <b>PowerShell</b> 
-- <b>bash</b>
+## Operating Systems Used
 
-<h2>Environments Used </h2>
+- **Windows 11 Pro**
+- **Windows Server 2022**
+- **Ubuntu/CentOS**
 
-- <b>Windows 11 Pro</b> 
-- <b>Windows Server 2022> 
-- <b>Ubuntu/CentOS</b> 
+## Documentation
 
-<h2>Common Scope Documentation</h2>
+> **Note:** Click on the links below to view the PDF documents. GitHub does not support embedded PDFs in README files.
+> 
+> **Alternative:** [View all documents with embedded previews](./docs/index.html) (requires GitHub Pages to be enabled)
 
-<p align="center">
-1: <br/>
-<img src="https://drive.google.com/file/d/1-vWa4MFYvbh0bUdRDcQ8WCd3_xS6D8ft/view?usp=sharing" height="80%" width="80%" alt="Steps"/>
-<br />
-<br />
-  
-<h2>Operating Systems Guide</h2>
-  
-2:  <br/>
-<img src="https://drive.google.com/file/d/1QX_ZvdTRAdQ7JRLpCNmDEvavQEhejYVE/view?usp=sharing" height="80%" width="80%" alt="Steps"/>
-<br />
-<br />
+### 📄 [Common Scope Documentation](https://drive.google.com/file/d/1-vWa4MFYvbh0bUdRDcQ8WCd3_xS6D8ft/view)
+Overview of the project scope and objectives.
 
-<h2>Network Systems Architecture</h2>
+### 📄 [Operating Systems Guide](https://drive.google.com/file/d/1QX_ZvdTRAdQ7JRLpCNmDEvavQEhejYVE/view)
+Comprehensive guide for Windows and Linux systems configuration.
 
-3: <br/>
-<img src="https://drive.google.com/file/d/1t0cvz74BGnjqHxyereTYBGIxltxhqEgR/view?usp=sharing" height="80%" width="80%" alt="Steps"/>
-<br />
-<br />
+### 📄 [Network Systems Architecture](https://drive.google.com/file/d/1t0cvz74BGnjqHxyereTYBGIxltxhqEgR/view)
+Network infrastructure design and implementation details.
 
-<h2>Comprehensive Data Architecture and Management</h2>
+### 📄 [Comprehensive Data Architecture and Management](https://drive.google.com/file/d/1ZSgh1LzckeKuRXuf2e9Iwi2qHY8HeD7X/view)
+Data management strategies and architecture documentation.
 
-4:  <br/>
-<img src="https://drive.google.com/file/d/1ZSgh1LzckeKuRXuf2e9Iwi2qHY8HeD7X/view?usp=sharing" height="80%" width="80%" alt="Steps"/>
-<br />
-<br />
+### 📄 [Business Information Systems](https://drive.google.com/file/d/1W8YYqHJ3scINps-sRE3RS4Ng04g2Hugm/view)
+Business systems integration and management documentation.
 
-<h2>Business Information Systems</h2>
+---
 
-4:  <br/>
-<img src="https://drive.google.com/file/d/1W8YYqHJ3scINps-sRE3RS4Ng04g2Hugm/view?usp=sharing" height="80%" width="80%" alt="Steps"/>
-<br />
-<br />
+## How to View Documents
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+**Option 1:** Click any link above to open the PDF in Google Drive (recommended for GitHub)
+
+**Option 2:** Enable GitHub Pages to view embedded PDFs:
+1. Go to your repository Settings
+2. Navigate to Pages section
+3. Select "Deploy from a branch"
+4. Choose branch: `main` and folder: `/docs`
+5. Visit the generated GitHub Pages URL to see embedded PDFs
