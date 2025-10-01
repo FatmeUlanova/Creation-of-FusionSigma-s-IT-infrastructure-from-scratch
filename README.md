@@ -9,6 +9,14 @@ A comprehensive initiative to build a modern, scalable, and secure technological
 
 - **PowerShell**
 - **Bash**
+-  **VirtualBox**
+- **BitLoker**
+-  **GNS3**
+-  **CiscoPacketTracer**
+- **WireShark**
+-  **MySQL**
+-  **PostgreSQL**
+- **Active Directory**
 
 ## Operating Systems Used
 
