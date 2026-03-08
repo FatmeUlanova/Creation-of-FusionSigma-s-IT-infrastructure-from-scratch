@@ -27,32 +27,7 @@ que las PYMES puedan optimizar sus operaciones y competir eficazmente en
 el entorno digital.
 
 ![Datos de la empresa](Assets/common-infrastructure/datos%20de%20empresa.png)
-
-+-----------------------+----------------------------------------------+
-| **Nombre**            | FUsionSigma                                  |
-+-----------------------+----------------------------------------------+
-| **CIF**               | F1234567X                                    |
-+-----------------------+----------------------------------------------+
-| **Tipo de empresa**   | Sociedad Limitada (S.L.)                     |
-+-----------------------+----------------------------------------------+
-| **Ubicación**         | Avda. de la Innovación, 15. Autovía del      |
-|                       | Mediterráneo (A-7). Salida 460 CP 04131      |
-|                       | Almería                                      |
-+-----------------------+----------------------------------------------+
-| **Propósito**         | Desarrollo de Bases de Datos Personalizadas  |
-|                       |                                              |
-|                       | y Gestión en la nube                         |
-+-----------------------+----------------------------------------------+
-| **Nº empleados**      | 22                                           |
-+-----------------------+----------------------------------------------+
-| **Nº teléfono**       | 613025813                                    |
-+-----------------------+----------------------------------------------+
-| **Pagina Web**        | www.FusionSigma.com                          |
-+-----------------------+----------------------------------------------+
-| **Email**             | <fusionsigma@gmail.com>                      |
-+-----------------------+----------------------------------------------+
-
-### []{#anchor-1}**2.**[**Solución a la situación informática**](#__RefHeading___Toc928_3622390871)
+**[**Solución a la situación informática**](#__RefHeading___Toc928_3622390871)
 
 FusionSigma SL es una empresa tecnológica con 22 empleados, enfocada en
 la gestión de bases de datos en la nube. Actualmente, la empresa solo
