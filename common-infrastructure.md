@@ -1,5 +1,4 @@
-![](Pictures/1000000000000159000001534032C0E7.jpg){width="2.898cm"
-height="2.849cm"}
+![Logo FusionSigma](Assets/common-infrastructure/comun%201.jpg)
 
 **Ámbito Común**
 
@@ -27,7 +26,7 @@ para ofrecer soluciones tecnológicas innovadoras y seguras, garantizando
 que las PYMES puedan optimizar sus operaciones y competir eficazmente en
 el entorno digital.
 
-### []{#anchor}**1.**[**Datos de la empresa**](#__RefHeading___Toc5118_1758808475)
+![Datos de la empresa](Assets/common-infrastructure/datos%20de%20empresa.png)
 
 +-----------------------+----------------------------------------------+
 | **Nombre**            | FUsionSigma                                  |
@@ -172,21 +171,17 @@ la aplicación web interna (10.13.0.10).
   - Proporcionaré manuales para los empleados sobre el uso de la VPN, la
     aplicación web y las herramientas de colaboración.
 
-### []{#anchor-2}**3.Esquema lógico real.**
+### 3. Esquema lógico real
 
-### []{#anchor-3}![](Pictures/10000001000005AD0000030C984EE75F.png){width="17cm" height="9.126cm"} ****
+![Esquema lógico real](Assets/common-infrastructure/esquema%20logico%20real.png)
 
-### **4.Esquema físico.**
+### 4. Esquema físico
 
-![](Pictures/100000010000044E000003311E0F8CB9.png){width="16.519cm"
-height="12.245cm"}
+![Esquema físico](Assets/common-infrastructure/esquema%20fisico.png)
 
-### []{#anchor-4}
+### 5. Plano de FusionSigma
 
-### []{#anchor-5}**5.**[**Plano de** ](#__RefHeading___Toc930_3622390871)**FUsionSigma.**
-
-![](Pictures/10000001000003A4000001CD3FB9C67A.png){width="18.228cm"
-height="9.015cm"} ****
+![Plano de FusionSigma](Assets/common-infrastructure/plano%20de%20Fusionsigma.png)
 
 ### []{#anchor-6}**6.Instalación de Cableado e Infraestructura**
 
